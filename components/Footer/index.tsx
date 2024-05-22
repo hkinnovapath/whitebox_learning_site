@@ -56,7 +56,7 @@ const Footer = () => {
                   </a>
                   <a
                  href="https://twitter.com/whiteboxQALearn"
-                 target="_blank"
+                 target="_blank" rel="noreferrer"
                  aria-label="Twitter"
                     className="mr-6 text-[#CED3F6] hover:text-primary"
                   >
@@ -84,7 +84,7 @@ const Footer = () => {
                   </a>
                   <a
                   href="https://www.linkedin.com/company/whitebox-learning/about/"
-                  target="_blank"
+                  target="_blank" rel="noreferrer"
                   aria-label="Linkedin"
                     className="mr-6 text-[#CED3F6] hover:text-primary"
                   >
