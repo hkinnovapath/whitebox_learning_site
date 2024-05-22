@@ -42,7 +42,7 @@ const Footer = () => {
                 <div className="flex items-center">
                   <a
                    href="https://github.com/WhiteboxHub"
-                   target="_blank"
+                   target="_blank" rel="noreferrer"
                    aria-label="Github"
                     className="mr-6 text-[#CED3F6] hover:text-primary"
                   >
